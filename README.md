@@ -19,7 +19,7 @@ OSIF is an accurate facebook account information gathering, all sensitive inform
 $ pkg update upgrade
 $ pkg install git python2
 $ git clone https://github.com/SMDDarKiller/CEF
-$ cd OSIF
+$ cd CEF
 ```
 
 # [ Setup ]
